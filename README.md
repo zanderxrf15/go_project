@@ -40,3 +40,11 @@ places to ask questions about the Go language.
 
 [rf]: https://reneefrench.blogspot.com/
 [cc4-by]: https://creativecommons.org/licenses/by/4.0/
+
+### Booking App
+
+In this Go project we are assigned to make a booking app for a Go conference. 
+
+The booking app stores a certain amount of tickets and it will immediately update the amount of tickets remaining once users have booked it. The protocols for entering data to book the ticket are enforced strictly in the booking app as failure in compiling to input the correct form of first name, last name, email, and number of tickets would result in the user being unable to book the tickets. If all of the protocols for the ticket booking are fulfilled, the booking app will display the list of bookings, a confirmation message, the remaining amount of tickets for the conference, and the first names of the bookings. Once all of that is displayed, after 30 seconds the app will send the amount of tickets booked to the user through the email used for booking.
+
+![Screenshot 2024-10-19 151245](https://github.com/user-attachments/assets/d97eefef-6861-4065-a39c-d693997d9320)
