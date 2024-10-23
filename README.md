@@ -41,7 +41,7 @@ places to ask questions about the Go language.
 [rf]: https://reneefrench.blogspot.com/
 [cc4-by]: https://creativecommons.org/licenses/by/4.0/
 
-### Booking App
+## Booking App
 
 In this Go project we are assigned to make a booking app for a Go conference. 
 
